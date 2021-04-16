@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Arrays"/>
+	<classpathentry kind="src" path="LacosCondicionais"/>
+	<classpathentry kind="src" path="LacosRepeticao"/>
+	<classpathentry kind="src" path="PrimeiroProjeto"/>
+	<classpathentry kind="src" path="PrimeirosPassosComJava/src"/>
+	<classpathentry kind="src" path="ProgramacaoOrientadaAObjetos"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
